@@ -21,3 +21,6 @@ blenderbot-flask-chatbot/
 │ └── (optional JS/CSS if needed)
 ├── README.md
 └── .gitignore
+
+
+<img width="1916" height="957" alt="image" src="https://github.com/user-attachments/assets/a277d240-fde9-4994-b1a0-c89bcb10cff1" />
